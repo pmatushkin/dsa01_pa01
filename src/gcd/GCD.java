@@ -1,5 +1,3 @@
-//package gcd;
-
 import java.util.*;
 
 public class GCD {
