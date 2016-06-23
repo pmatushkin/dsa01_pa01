@@ -7,7 +7,7 @@ public class LCM {
         //write your code here
         int gcd = gcd_euclidean(a, b);
 
-        return a * (b / gcd);
+        return (long)a * (b / gcd);
     }
 
     private static int gcd_euclidean(int a, int b) {
