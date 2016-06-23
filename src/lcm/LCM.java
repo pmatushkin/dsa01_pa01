@@ -1,4 +1,4 @@
-package lcm;
+//package lcm;
 
 import java.util.*;
 

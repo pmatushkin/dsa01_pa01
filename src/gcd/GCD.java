@@ -1,4 +1,4 @@
-package gcd;
+//package gcd;
 
 import java.util.*;
 

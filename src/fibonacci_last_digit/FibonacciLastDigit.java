@@ -1,4 +1,4 @@
-package fibonacci_last_digit;
+//package fibonacci_last_digit;
 
 import java.util.*;
 
