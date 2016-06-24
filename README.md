@@ -4,7 +4,7 @@ Implement solutions that work much more faster than straightforward solutions fo
 * [`/src/fibonacci/Fib.java`](src/fibonacci/Fib.java): Problem 1, computes a small Fibonacci number (PASSED);
 * [`/src/fibonacci_last_digit/FibonacciLastDigit.java`](src/fibonacci_last_digit/FibonacciLastDigit.java): Problem 2, computes the last digit of a large Fibonacci number (PASSED);
 * [`/src/gcd/GCD.java`](src/gcd/GCD.java): Problem 3, computes the greatest common divisor of two integers (PASSED);
-* [`/src/lcm/LCM.java`](src/lcm/LCM.java): Problem 4, compute the least common multiple of two integers (PASSED);
+* [`/src/lcm/LCM.java`](src/lcm/LCM.java): Problem 4, computes the least common multiple of two integers (PASSED);
 * [`/src/fibonacci_huge/FibonacciHuge.java`](src/fibonacci_huge/FibonacciHuge.java): Advanced Problem 5, computes a huge Fibonacci number modulo *m* (PASSED).
 
 ### Links
