@@ -1,5 +1,6 @@
 # Data Structures and Algorithms
-## Algorithmic Toolbox Programming Assignment 01
+## Algorithmic Toolbox Programming Assignment 01: Introduction
+### Problems
 Implement solutions that work much more faster than straightforward solutions for the following computational problems:
 * [`/src/fibonacci/Fib.java`](src/fibonacci/Fib.java): Problem 1, computes a small Fibonacci number (PASSED);
 * [`/src/fibonacci_last_digit/FibonacciLastDigit.java`](src/fibonacci_last_digit/FibonacciLastDigit.java): Problem 2, computes the last digit of a large Fibonacci number (PASSED);
